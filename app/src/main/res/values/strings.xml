@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose Basics</string>
+    <string name="spain">Spain</string>
+    <string name="new_york">New York</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="singapore">Singapore</string>
+    <string name="paris">Paris</string>
+    <string name="city_images">City Images</string>
+</resources>
